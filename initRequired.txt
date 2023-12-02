@@ -1,0 +1,15 @@
+Install wifi-driver from "Install Additional Driver"
+VS Code
+Postman/Insomnia
+Node.js
+	sudo snap install node --classic
+    	node -v
+      	npm -v
+
+MySql Client/server
+	run installMySql.sh
+
+Configuration 
+	Sync vscode with github
+	run on terminal  git --global user email ash..........@gmail.com
+	commit and push regularly
