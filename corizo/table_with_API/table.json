@@ -1,0 +1,20 @@
+[
+    {
+        "Roll_No":3,
+        "Name":"Rajesh",
+        "City":"Bhopal",
+        "College":"LNCT"
+    },
+    {
+        "Roll_No":4,
+        "Name":"Suresh",
+        "City":"Tamilnadu",
+        "College":"IISC"
+    },
+    {
+        "Roll_No":5,
+        "Name":"Mukesh Singh",
+        "City":"Patna",
+        "College":"Nalanda University"
+    }
+]
