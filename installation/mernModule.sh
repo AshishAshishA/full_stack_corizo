@@ -1,3 +1,3 @@
 sudo npm install --global nodemon
 npm install ejs
-npm install fs express dotenv
+npm install fs express dotenv path body-parser
